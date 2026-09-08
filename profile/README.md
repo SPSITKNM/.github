@@ -1,3 +1,11 @@
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"  srcset="assets/banner-hub-dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner-hub-light.png">
+    <img alt="TERÉN — terénna príručka informatiky · spsitknm.github.io" src="assets/banner-hub-light.png" width="900">
+  </picture>
+</p>
+
 <div align="center">
 
 ### SPSITKNM — Terénna príručka štvrtého ročníka
